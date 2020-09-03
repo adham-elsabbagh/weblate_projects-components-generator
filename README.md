@@ -1,6 +1,6 @@
 # weblate
-# python scripts for creating weblate projects and components
-1.If you want to create a project use the script ”autocreateprojects.py” we can use itwith 2 ways:
+# weblate-odoo-auto-projects-components-generator
+* If you want to create a project use the script ”autocreateprojects.py” we can use itwith 2 ways:
 * This way for create a single project depend on the name.
   * python3 autocreateprojects.py 
   * --name=project-name
