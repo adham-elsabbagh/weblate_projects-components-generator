@@ -1,4 +1,4 @@
-# weblate
+# odoo-po-tgz-files-generator
 # weblate-odoo-auto-projects-components-generator
 * If you want to create a project use the script ”autocreateprojects.py” we can use itwith 2 ways:
 * This way for create a single project depend on the name.
